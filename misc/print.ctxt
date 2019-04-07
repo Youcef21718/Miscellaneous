@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=base\ index
+comment1.target=void\ print(int,\ int[])
+comment2.params=base\ index\ length
+comment2.target=void\ print(int,\ int[],\ int)
+comment3.params=n
+comment3.target=void\ print(int)
+comment4.params=array
+comment4.target=void\ printArray(int[])
+comment5.params=perm
+comment5.target=boolean\ checkPerm(int[])
+comment6.params=perm
+comment6.target=int[]\ inv(int[])
+comment7.params=data\ shape\ perm\ index
+comment7.target=int\ getElement(int[],\ int[],\ int[],\ int[])
+comment8.params=data\ shape\ perm\ index\ var
+comment8.target=void\ setElement(int[],\ int[],\ int[],\ int[],\ int)
+numComments=9

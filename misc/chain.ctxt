@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=i\ j\ dims\ m\ s\ count
+comment1.target=int\ cost(int,\ int,\ int[],\ int[][],\ int[][],\ int[])
+comment2.params=dims
+comment2.target=void\ matrixChainOrder(int[])
+comment3.params=array
+comment3.target=void\ print(int[][])
+numComments=4

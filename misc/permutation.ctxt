@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=perm
+comment1.target=boolean\ checkPerm(int[])
+comment10.params=array\ n
+comment10.target=int[]\ prefix(int[],\ int)
+comment11.params=array
+comment11.target=void\ printArray(int[])
+comment2.params=perm
+comment2.target=int[]\ inv(int[])
+comment3.params=a\ b
+comment3.target=void\ permlist(int,\ int)
+comment4.params=index\ i\ b
+comment4.target=void\ permlist(int[],\ int,\ int)
+comment5.params=a
+comment5.target=void\ permlist(int)
+comment6.params=index\ i
+comment6.target=void\ permlist(int[],\ int)
+comment7.params=index\ i\ j
+comment7.target=void\ swap(int[],\ int,\ int)
+comment8.params=a
+comment8.target=int[]\ perm(int)
+comment9.params=a\ b
+comment9.target=int[]\ perm(int,\ int)
+numComments=12

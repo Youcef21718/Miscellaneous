@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=vals\ perm
+comment1.target=void\ permute1(int[],\ int[])
+comment2.params=vals\ perm
+comment2.target=void\ permute2(int[],\ int[])
+comment3.params=array
+comment3.target=void\ print(int[])
+numComments=4
